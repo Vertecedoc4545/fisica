@@ -1,0 +1,6 @@
+[book]
+authors = ["Carlos Licea"]
+language = "es"
+multilingual = true
+src = "src"
+title = "Fisica clase 501"
